@@ -1,0 +1,8 @@
+[package]
+name = "xhr-stdweb"
+version = "0.1.0"
+authors = ["pandaman64 <kointosudesuyo@infoseek.jp>"]
+
+[dependencies]
+stdweb = { git = "https://github.com/koute/stdweb.git" }
+
